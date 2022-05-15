@@ -1,0 +1,163 @@
+boddy{
+	padding-top:100px;
+	font-family: 'Raleway', sans-serif;
+	
+	margin:0;
+	
+}
+.resimSlider{
+	margin-top: 50px;
+	height: 500px;
+
+}
+
+
+
+
+
+.hakkimda{
+	background:#F9EBC8;
+	font-style: italic;
+	color: #1A374D;
+}
+
+
+
+@media only screen and (min-width:960px) {
+	.sehrim{width:100px;}
+}
+
+.ozgecmis {
+	width:auto;
+	height:auto;
+	background:#F9EBC8;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:auto;
+	margin-top:50px;
+	font-style: italic;
+}
+
+	
+/* .sehrim {
+	width: auto;
+	height: auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+} */
+
+
+.login{
+	
+	width: 100%;
+    padding: 10px;
+	height:auto;
+	background: #F9EBC8;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	padding-top: 10%;
+	padding-bottom:16%;
+	align-items: center;
+	text-align: center;
+
+	
+	
+}
+.loginn{
+	background: #F9EBC8;
+	font-style: italic;
+	margin-bottom: 10px;
+	font-size: 15px;
+	text-shadow: 1px 3px rgba(0,0,0,.1);
+
+}
+
+.takimimiz{
+	width:auto;
+	height:auto;
+	background:#F9EBC8;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin: auto;
+	margin-top:30px;
+	padding:20px;
+	font-style: italic;
+}
+
+.ilgialanlarim{
+	width:auto;
+	height:auto;
+	background:#F9EBC8;
+	color:#1A374D;
+	font-family: Arial;
+	margin: auto;
+	margin-top:30px;
+	padding:50px;
+	font-style: italic;
+	
+}
+
+.iletisim{
+	width:auto;
+	height:auto;
+	background:#F9EBC8;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+
+#prusiasad{
+	margin-top: 5%;
+}
+
+#prusiasresim{
+	margin-top: 30px;
+	width: auto;
+	height: auto;
+	background-position: center;
+}
+
+#prusiasgrnt{
+	margin-top: 50px;
+
+	
+}
+#resim1{
+	margin-left: 25%;
+	margin-top: 100px;
+}
+
+.prusias{
+	background: #F9EBC8;
+}
+
+.footer{
+	background: #B4CFB0;;
+}
+
+.video{
+	padding-bottom: 50½;
+
+}
+
+#konuralpResim{
+	margin-top: 30px;
+	margin-bottom: auto;
+	width: auto;
+	height: 500px;
+	background-position: center;
+	align-items: center;
+	margin-bottom: 2%;
+}
+#GüzeldereResim{
+	text-align: center;
+	margin-left: 25%;
+	margin-bottom: 2%;
+
+}
